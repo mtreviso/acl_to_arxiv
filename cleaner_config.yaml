@@ -1,0 +1,11 @@
+verbose: False
+keep_bib: True
+commands_to_delete: [
+    '\\todo',
+    '\\marcos',
+    '\\andre',
+    '\\nuno',
+    '\\ricardo',
+    '\\jose',
+    '\\sweta'
+]
